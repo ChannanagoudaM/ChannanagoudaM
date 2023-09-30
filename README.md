@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ,you can mail me through the below email
-- channanagouadagouda51@gmail.com
+- channanagoudagouda51@gmail.com
 
 <!---
 ChannanagoudaM/ChannanagoudaM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
